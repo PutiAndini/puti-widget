@@ -1,4 +1,6 @@
-# uas-prakpbk-puti
+# UAS LAB PBK
+# PUTI ANDINI
+# 213510618
 
 ## Project setup
 ```
